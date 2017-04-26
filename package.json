@@ -1,0 +1,33 @@
+{
+  "name": "operationss",
+  "version": "1.0.0",
+  "description": "operation support system",
+  "main": "/tools/start.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FionaWong/operationss.git"
+  },
+  "keywords": [
+    "operation",
+    "support"
+  ],
+  "author": "wxf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FionaWong/operationss/issues"
+  },
+  "homepage": "https://github.com/FionaWong/operationss#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router": "^4.1.1",
+    "webpack": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "webpack": "^2.4.1"
+  }
+}
